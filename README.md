@@ -3,7 +3,7 @@
 
 ## Architecture
 
-The table, [filename](), contains INSERT INFORMATION ABOUT THIS.
+The table, [Violation-Health-Code-Mapping.csv](https://github.com/nychealth/Food-Safety-Health-Code-Reference/blob/main/Violation-Health-Code-Mapping.csv), contains INSERT INFORMATION ABOUT THIS.
 
 [The application](https://datawrapper.dwcdn.net/Bk4zv/4/) is built as a table using Datawrapper and is optimized for mobile devices.
 
