@@ -9,7 +9,7 @@ The table, [Violation-Health-Code-Mapping.csv](https://github.com/nychealth/Food
 
 This file will be updated when there are major changes to the health code that pertain to food service establishments, which occur every few years.
 
-DOHMH staff should note that to update the app properly, ```Violation-Health-Code-Mapping.csv``` should be updated with the same column headers as the existing file, and it should be uploaded with the same name and file format (.csv). Once that is done, the Food Safety Health Code Reference Tool for Inspectors will automatically update. 
+NYC Health Department staff should note that to update the app properly, ```Violation-Health-Code-Mapping.csv``` should be updated with the same column headers as the existing file, and it should be uploaded with the same name and file format (.csv). Once that is done, the Food Safety Health Code Reference Tool for Inspectors will automatically update. 
 
 ## Contact us
 
